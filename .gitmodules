@@ -1,0 +1,9 @@
+[submodule "tcp_udp_ip"]
+	path = tcp_udp_ip
+	url = https://github.com/jmcanana/tcp_udp_ip.git
+[submodule "jsbsim"]
+	path = jsbsim
+	url = https://github.com/jmcanana/jsbsim.git
+[submodule "MATLAB-Groves"]
+	path = MATLAB-Groves
+	url = https://github.com/jmcanana/MATLAB-Groves.git
