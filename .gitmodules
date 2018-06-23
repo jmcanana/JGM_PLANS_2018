@@ -9,7 +9,7 @@
 	url = https://github.com/jmcanana/MATLAB-Groves.git
 [submodule "flightgear"]
 	path = flightgear
-	url = git@github.com:jmcanana/flightgear.git
+	url = https://github.com/jmcanana/flightgear.git
 [submodule "simgear"]
 	path = simgear
-	url = git@github.com:jmcanana/simgear.git
+	url = https://github.com/jmcanana/simgear.git
